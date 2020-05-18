@@ -1,0 +1,14 @@
+-----todo.ts-----
+AAFDFDSFSDF [Line: 1]
+AAFDFDSFJHJH [Line: 2]
+AAFDFDFA [Line: 3]
+
+-----todoList.ts-----
+AAFDFDSFSDF [Line: 1]
+AAFDFDSFJHJH [Line: 2]
+AAFDFDFA [Line: 3]
+
+-----todoRegex.ts-----
+HELP NEEDED [Line: 2]
+HELP REQUIRED [Line: 3]
+
